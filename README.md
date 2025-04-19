@@ -47,7 +47,7 @@ Sou apaixonado por tecnologia e inovação, atualmente em transição de carreir
 
 ### ⚡ Curiosidade
 
-Estou criando um **ecossistema de apps** para entregadores, com foco em independência financeira e menos dependência de plataformas como iFood. 🚀
+Estou criando um **ecossistema de apps** para entregadores, com foco em independência financeira e menos dependência de plataformas de Entrega. 🚀
 
 ---
 
