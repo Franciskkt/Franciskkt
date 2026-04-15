@@ -1,65 +1,40 @@
-<h1 align="center">👋 Olá, eu sou o Francis!</h1>
+# Francis Rodrigues de Oliveira
 
-<p align="center">
-  💻 Estudante de Banco de Dados | 📊 Focado em Ciência de Dados e Desenvolvimento de Apps para Entregadores <br>
-  📍 São Paulo - SP, Brasil
-</p>
+**Engenharia de Dados | Python · SQL · DuckDB | Arquitetura de Dados @ Anhanguera**
 
----
-
-### 🚀 Sobre mim
-
-Sou apaixonado por tecnologia e inovação, atualmente em transição de carreira. Tenho experiência como motoboy e estou criando soluções reais para entregadores e comércios locais com tecnologia.
+São Paulo, SP — Aberto a oportunidades remotas e híbridas
 
 ---
 
-### 🎯 Interesses
+## 🔧 O que estou construindo
 
-- 📱 Desenvolvimento de apps para entregadores (Bit Log)
-- 📊 Ciência de Dados e Inteligência Artificial
-- 🛵 Soluções para motoboys e comércios locais
+**[Global Breakfast Price Pipeline](https://github.com/Franciskkt/breakfast-price-pipeline)**
+Pipeline de dados com preços de alimentos básicos em 122 cidades e 80 países.
+Stack: Python · Pandas · DuckDB · SQL · Plotly
 
----
-
-### 📚 Atualmente aprendendo
-
-- 🐍 Python com projetos práticos
-- 🗃️ Banco de Dados (SQLite, SQL Server)
-- 🎨 Desenvolvimento de interfaces com Kivy
+> Ingestão → Validação → Transformação → Análise → Visualização
 
 ---
 
-### 🤝 Posso colaborar com...
+## 🛠️ Stack atual
 
-- 👨‍💻 Projetos voltados para entregadores
-- 📊 Soluções de BI com Power BI
-- 📈 Análises de dados e automações com Python
-
----
-
-### 📫 Como me encontrar
-
-- ✉️ E-mail: francis_rodrigues.o@outlook.com  
-- 📱 WhatsApp: (11) 91356-1777  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/franciskkt)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FDD835?style=flat&logo=duckdb&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### ⚡ Curiosidade
+## 📚 Formação
 
-Estou criando um **ecossistema de apps** para entregadores, com foco em independência financeira e menos dependência de plataformas de Entrega. 🚀
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Kivy](https://img.shields.io/badge/Kivy-2C3E50?style=for-the-badge&logo=kivy&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Arquitetura de Dados** — Universidade Anhanguera (2026–2028)
+- Certificações: Power BI · Modelagem de Dados · Git/GitHub · Cisco Data Science
 
 ---
 
-💬 Me chama se quiser conversar sobre tecnologia, entregas, dados ou ideias de negócio!
+## 📫 Contato
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-franciskkt-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/franciskkt)
+[![Email](https://img.shields.io/badge/Email-fr.netelecom@gmail.com-D14836?style=flat&logo=gmail)](mailto:fr.netelecom@gmail.com)
