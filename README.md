@@ -36,5 +36,6 @@ Stack: Python · Pandas · DuckDB · SQL · Plotly
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-franciskkt-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/franciskkt)
-[![Email](https://img.shields.io/badge/Email-fr.netelecom@gmail.com-D14836?style=flat&logo=gmail)](mailto:fr.netelecom@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-franciskkt-0A66C2?style=flat\&logo=linkedin)](https://linkedin.com/in/franciskkt)
+[![Instagram](https://img.shields.io/badge/Instagram-francis.analytics-E4405F?style=flat\&logo=instagram)](https://instagram.com/francis.analytics)
+[![Email](https://img.shields.io/badge/Email-francis__rodrigues.o@outlook.com-D14836?style=flat\&logo=gmail)](mailto:francis_rodrigues.o@outlook.com)
